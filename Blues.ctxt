@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Blues()
+comment1.params=
+comment1.target=void\ newAutoSong()
+comment2.params=
+comment2.target=void\ newSong()
+comment3.params=name\ place1\ place2
+comment3.target=void\ printSong(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getPlace()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6
